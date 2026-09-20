@@ -46,6 +46,9 @@ Construyo aplicaciones web full stack y APIs REST escalables, con foco en backen
 
 ## 💼 Experiencia
 
+**Desarrollador de Software** — Universidad Distrital Francisco José de Caldas · *sept. 2026 – actualidad*
+Proyecto Argo, sistema de gestión contractual de la Universidad. Desarrollo y mantenimiento de servicios backend, actualización de dependencias y resolución de alertas de seguridad, configuración de análisis estático con SonarQube y soporte a la integración continua.
+
 **Ingeniero de Automatización e IA** — RapiCredit · *ago. 2026 – actualidad*
 Diseño e implementación de soluciones de automatización e inteligencia artificial generativa para optimizar procesos, reducir tareas manuales y apoyar la toma de decisiones en la organización.
 
