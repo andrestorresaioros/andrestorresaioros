@@ -1,4 +1,4 @@
-# Hola, soy César Andrés Torres Bernal 👋
+# Hola, soy Andrés Torres 👋
 
 **Ingeniero de Sistemas · Desarrollador de Software · Bogotá, Colombia**
 
