@@ -92,6 +92,20 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 ---
 
+## 📊 GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrestorresaioros&theme=github_dark">
+  <img alt="Resumen de actividad en GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrestorresaioros&theme=default">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrestorresaioros&theme=github_dark">
+  <img alt="Lenguajes mas usados" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrestorresaioros&theme=default">
+</picture>
+
+---
+
 ## 📫 Contacto
 
 ¿Trabajamos juntos? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-torres10).
