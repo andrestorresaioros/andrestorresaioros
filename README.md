@@ -82,26 +82,22 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 ### 🎨 Frontend
 
-[Flujo interactivo](https://andrestorresaioros.github.io/flujo-suplantacion/) ·
-[Galería con Web Components](https://andrestorresaioros.github.io/Proyecto-Frontend/) ·
-[Spotify UI](https://andrestorresaioros.github.io/Spotify/) ·
-[Portal de vehículos con Bootstrap](https://andrestorresaioros.github.io/Diagramacion-en-Bootstrap/) ·
-[Reto Frontend Mentor](https://andrestorresaioros.github.io/front/)
+| Proyecto | Descripción | Stack | Demo |
+|---|---|---|---|
+| [flujo-suplantacion](https://github.com/andrestorresaioros/flujo-suplantacion) | Flujo interactivo paso a paso de atención de casos | HTML · CSS · JavaScript | [Ver](https://andrestorresaioros.github.io/flujo-suplantacion/) |
+| [Proyecto-Frontend](https://github.com/andrestorresaioros/Proyecto-Frontend) | Galería tipo Pinterest con un Web Component propio | JavaScript · Web Components | [Ver](https://andrestorresaioros.github.io/Proyecto-Frontend/) |
+| [Spotify](https://github.com/andrestorresaioros/Spotify) | Réplica de la interfaz web de Spotify | HTML · CSS · Bootstrap | [Ver](https://andrestorresaioros.github.io/Spotify/) |
+| [Diagramacion-en-Bootstrap](https://github.com/andrestorresaioros/Diagramacion-en-Bootstrap) | Portal de compra y venta de vehículos | HTML · Bootstrap | [Ver](https://andrestorresaioros.github.io/Diagramacion-en-Bootstrap/) |
+| [front](https://github.com/andrestorresaioros/front) | Reto *Four Card Feature Section* de Frontend Mentor | HTML · CSS | [Ver](https://andrestorresaioros.github.io/front/) |
 
-### 🎓 Académicos
+### 📚 Académicos
 
-[Ciencias de la Computación I](https://github.com/andrestorresaioros/ComputingScience-1) (algoritmos y estructuras de datos en Java) ·
-[Algoritmia](https://github.com/andrestorresaioros/Algoritmia) (Python) ·
-[POO en C++](https://github.com/andrestorresaioros/poo) ·
-[Front-end Meta](https://github.com/andrestorresaioros/Front-end-Meta)
-
----|---|---|
-| [gestion_contractual_crud](https://github.com/udistrital/gestion_contractual_crud) | API de gestión contractual de la Universidad Distrital | NestJS · TypeScript |
-| [Prueba-Tecnica-Series](https://github.com/andrestorresaioros/Prueba-Tecnica-Series) | Gestión de series y directores (relación N:M), documentada con Swagger y desplegada | NestJS · Prisma · PostgreSQL · React |
-| [API_SPA](https://github.com/andrestorresaioros/API_SPA) | API REST con JWT y SPA, carga masiva por lotes, tests y CI/CD | .NET 8 · EF Core · PostgreSQL · React |
-| [PlanMincit](https://github.com/andrestorresaioros/PlanMincit) | Backend de planificación institucional con servicios REST | FastAPI · PostgreSQL · Docker |
-| [Databases-II](https://github.com/andrestorresaioros/Databases-II) | AgroClima: monitoreo climático y predicción de riesgos agrícolas | PostgreSQL · MongoDB · Python · Streamlit |
-| [Parking_Back](https://github.com/andrestorresaioros/Parking_Back) | Gestión de parqueadero: clientes, vehículos, contratos y recibos | Django · Python |
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [ComputingScience-1](https://github.com/andrestorresaioros/ComputingScience-1) | Algoritmos y estructuras de datos: ordenamiento, LCS, listas, árboles binarios y AVL | Java · Swing |
+| [Algoritmia](https://github.com/andrestorresaioros/Algoritmia) | Fibonacci, triángulo de Pascal y números primos | Python |
+| [poo](https://github.com/andrestorresaioros/poo) | Programación orientada a objetos: estadísticas de estudiantes | C++ |
+| [Front-end-Meta](https://github.com/andrestorresaioros/Front-end-Meta) | Programa Meta Front-End Developer (Coursera) | HTML · CSS · JavaScript · Jest |
 
 ---
 
