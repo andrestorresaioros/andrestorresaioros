@@ -122,8 +122,8 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&hide=html,css&langs_count=3&locale=es&card_width=300&theme=github_dark&bg_color=0d1117&title_color=58a6ff&border_color=30363d">
-    <img height="205" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&hide=html,css&langs_count=3&locale=es&card_width=300&theme=default&title_color=0969da&border_color=d0d7de">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&hide=html%2Ccss&langs_count=3&locale=es&card_width=300&theme=github_dark&bg_color=0d1117&title_color=58a6ff&border_color=30363d">
+    <img height="205" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&hide=html%2Ccss&langs_count=3&locale=es&card_width=300&theme=default&title_color=0969da&border_color=d0d7de">
   </picture>
 </p>
 
