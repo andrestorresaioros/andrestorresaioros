@@ -4,7 +4,7 @@
 
 Construyo aplicaciones web full stack y APIs REST escalables, con foco en backend, arquitectura de software y automatización de procesos. Actualmente curso la **Especialización en Ingeniería de Software** en la Universidad Distrital Francisco José de Caldas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-torres10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-torres-dev)
 
 ---
 
@@ -151,4 +151,4 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 ## 📫 Contacto
 
-¿Trabajamos juntos? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-torres10).
+¿Trabajamos juntos? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andres-torres-dev).
