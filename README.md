@@ -113,34 +113,44 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 ## 📊 GitHub
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff">
-    <img height="160" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=default&title_color=0969da&icon_color=0969da">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
-    <img height="160" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
-  </picture>
-</p>
+<br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff">
-    <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=default&title_color=0969da">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&border_color=30363d">
+    <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&theme=default&title_color=0969da&icon_color=0969da&border_color=d0d7de">
   </picture>
+  &nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrestorresaioros&utcOffset=-5&theme=github_dark">
-    <img height="150" alt="Horario de commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrestorresaioros&utcOffset=-5&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D">
+    <img height="165" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&date_format=j%20M%5B%20Y%5D&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&border=D0D7DE">
   </picture>
 </p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&theme=github_dark&bg_color=0d1117&title_color=58a6ff&border_color=30363d">
+    <img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&theme=default&title_color=0969da&border_color=d0d7de">
+  </picture>
+  &nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrestorresaioros&utcOffset=-5&theme=github_dark">
+    <img height="165" alt="Horario de commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrestorresaioros&utcOffset=-5&theme=default">
+  </picture>
+</p>
+
+<br>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrestorresaioros&theme=github_dark">
-    <img width="85%" alt="Resumen de actividad en GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrestorresaioros&theme=default">
+    <img width="80%" alt="Resumen de actividad en GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrestorresaioros&theme=default">
   </picture>
 </p>
+
+<br>
 
 ---
 
