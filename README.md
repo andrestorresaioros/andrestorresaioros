@@ -71,8 +71,31 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 ## 📌 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
+| Proyecto | Descripción | Stack | Demo |
+|---|---|---|---|
+| [gestion_contractual_crud](https://github.com/udistrital/gestion_contractual_crud) | API de gestión contractual de la Universidad Distrital | NestJS · TypeScript | — |
+| [Prueba-Tecnica-Series](https://github.com/andrestorresaioros/Prueba-Tecnica-Series) | Gestión de series y directores (relación N:M), documentada con Swagger y desplegada | NestJS · Prisma · PostgreSQL · React | [Ver](https://prueba-tecnica-series.vercel.app/) |
+| [API_SPA](https://github.com/andrestorresaioros/API_SPA) | API REST con JWT y SPA, carga masiva por lotes, pruebas y CI/CD | .NET 8 · EF Core · PostgreSQL · React | — |
+| [Databases-II](https://github.com/andrestorresaioros/Databases-II) | AgroClima: monitoreo climático y predicción de riesgos agrícolas | PostgreSQL · MongoDB · Python · Streamlit | — |
+| [Parking_Back](https://github.com/andrestorresaioros/Parking_Back) + [Parking_Front](https://github.com/andrestorresaioros/Parking_Front) | Gestión de parqueaderos: cupos, tarifas, contratos y recibos con cálculo automático | Django REST Framework · JavaScript · Bootstrap | [Ver](https://andrestorresaioros.github.io/Parking_Front/) |
+| [pruebaDaniel](https://github.com/andrestorresaioros/pruebaDaniel) | Sistema de turnos de atención con usuarios, estados y API REST | Django · DRF · PostgreSQL | — |
+
+### 🎨 Frontend
+
+[Flujo interactivo](https://andrestorresaioros.github.io/flujo-suplantacion/) ·
+[Galería con Web Components](https://andrestorresaioros.github.io/Proyecto-Frontend/) ·
+[Spotify UI](https://andrestorresaioros.github.io/Spotify/) ·
+[Portal de vehículos con Bootstrap](https://andrestorresaioros.github.io/Diagramacion-en-Bootstrap/) ·
+[Reto Frontend Mentor](https://andrestorresaioros.github.io/front/)
+
+### 🎓 Académicos
+
+[Ciencias de la Computación I](https://github.com/andrestorresaioros/ComputingScience-1) (algoritmos y estructuras de datos en Java) ·
+[Algoritmia](https://github.com/andrestorresaioros/Algoritmia) (Python) ·
+[POO en C++](https://github.com/andrestorresaioros/poo) ·
+[Front-end Meta](https://github.com/andrestorresaioros/Front-end-Meta)
+
+---|---|---|
 | [gestion_contractual_crud](https://github.com/udistrital/gestion_contractual_crud) | API de gestión contractual de la Universidad Distrital | NestJS · TypeScript |
 | [Prueba-Tecnica-Series](https://github.com/andrestorresaioros/Prueba-Tecnica-Series) | Gestión de series y directores (relación N:M), documentada con Swagger y desplegada | NestJS · Prisma · PostgreSQL · React |
 | [API_SPA](https://github.com/andrestorresaioros/API_SPA) | API REST con JWT y SPA, carga masiva por lotes, tests y CI/CD | .NET 8 · EF Core · PostgreSQL · React |
@@ -101,7 +124,7 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrestorresaioros&theme=github_dark">
-  <img alt="Lenguajes mas usados" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrestorresaioros&theme=default">
+  <img alt="Lenguajes más usados" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrestorresaioros&theme=default">
 </picture>
 
 ---
