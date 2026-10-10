@@ -115,19 +115,19 @@ Acompañamiento a estudiantes en programación, estructuras de datos, estructura
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff">
-    <img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=default&title_color=0969da&icon_color=0969da">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff">
+    <img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=andrestorresaioros&disable_animations=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&locale=es&rank_icon=github&card_width=420&custom_title=Estad%C3%ADsticas%20de%20GitHub&hide_border=true&theme=default&title_color=0969da&icon_color=0969da">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andrestorresaioros&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
-    <img height="180" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=andrestorresaioros&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=github-dark-blue&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
+    <img height="180" alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=andrestorresaioros&disable_animations=true&locale=es&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff">
-    <img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=default&title_color=0969da">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff">
+    <img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrestorresaioros&disable_animations=true&layout=compact&langs_count=8&locale=es&card_width=420&hide_border=true&theme=default&title_color=0969da">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrestorresaioros&utcOffset=-5&theme=github_dark">
